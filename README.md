@@ -5,6 +5,8 @@ Ana-Maria\
 Alex\
 Igor\
 Ivan
+## Demo
+https://youtu.be/LmotuJ33Nm4
 ## Setup
 1. Clone the repo, open the data_analysis folder and put students_data.csv in this folder.
 2. ```pip install pandas```\
